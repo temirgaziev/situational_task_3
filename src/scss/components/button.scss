@@ -1,0 +1,73 @@
+@import '../variables.scss';
+
+.search__button{
+  background:transparent;
+  border: none;
+  color: darkslategrey;
+  // margin-right: 40px;
+  cursor: pointer;
+  margin-right: 14px;
+}
+.header__cart{
+  // width: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header__logo{
+  margin-left: 120px;
+}
+.svgcol{
+  fill: #000;
+}
+.button--cart{
+  position: relative;
+  span{
+    position: absolute;
+    top: 12px;
+    left: 10px;
+    font-size: 14px;
+  }
+  img{
+    width: 30px;
+  }
+}
+
+.button--cart:hover{
+  opacity: .5;
+}
+.search__button:hover{
+  opacity: .5;
+}
+.header__logo:hover{
+  opacity: .7;
+}
+.footer{
+  h3:hover,li:hover{
+    opacity: .5;
+  }
+}
+li:hover{
+  opacity: .5;
+}
+// @media screen and(max-width:) {
+  
+// }
+.sidebarBtn{
+  // cursor: pointer;
+  border: none;
+  background: #fff;
+  margin-right: 35px;
+}
+.sidebarBtn:hover{
+  opacity: .5;
+}
+.addToBasket{
+  padding: 10px;
+  background: #000;
+  color: #fff;
+  outline: none;
+  border: none;
+  margin: 10px 0;
+  cursor: pointer;
+}
