@@ -24,7 +24,7 @@ TechTrek is a leading innovative technology company specializing in developing a
 
 ## Deployment
 
-The application is deployed on GitHub Pages for demonstration: [TechTrek X Pre-Order Platform](https://your-github-username.github.io/techtrek-x-preorder)
+The application is deployed on GitHub Pages for demonstration: [TechTrek X Pre-Order Platform](https://situationaltask3.vercel.app)
 
 ## Additional Requirements
 
